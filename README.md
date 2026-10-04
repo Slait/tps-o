@@ -533,7 +533,7 @@ Do **not** use TPS-O to search for or recover private keys belonging to third pa
 
 # License
 
-TPS-O is distributed under the **TPS-O Binary License 1.0** — a custom proprietary/freeware-style binary license designed for this distribution model.
+**TPS-O Binary License 1.0** — a custom proprietary/freeware-style binary license designed for this distribution model.
 
 In short:
 

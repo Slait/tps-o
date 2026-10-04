@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/tps-o-cover-ru.png" alt="TPS-O — последовательный поиск сегментов нового поколения" width="100%">
+  <img src="docs/assets/tps-o-cover-ru.webp" alt="TPS-O — последовательный поиск сегментов нового поколения" width="100%">
 </p>
 
 <p align="center">
@@ -467,7 +467,7 @@ Remove-Item Env:TPS_GPU_BLOCKS_PER_SM -ErrorAction SilentlyContinue
 # Пример интерфейса
 
 <p align="center">
-  <img src="docs/assets/tps-o-terminal.png" alt="Интерфейс TPS-O" width="100%">
+  <img src="docs/assets/tps-o-terminal.webp" alt="Интерфейс TPS-O" width="100%">
 </p>
 
 В обычном запуске отображаются:

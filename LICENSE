@@ -1,0 +1,99 @@
+TPS-O BINARY LICENSE 1.0
+Copyright (c) 2026 Slait. All rights reserved.
+
+1. Grant of Permission
+
+Subject to the terms of this License, the copyright holder grants you a
+non-exclusive, revocable, worldwide, royalty-free permission to:
+
+(a) use the original TPS-O executable for lawful purposes;
+(b) make copies of the original executable for backup, archival, and personal
+    or organizational use; and
+(c) redistribute exact, unmodified copies of the original executable together
+    with this License and all original copyright, authorship, and notice files.
+
+2. Binary-Only Distribution
+
+TPS-O is licensed as compiled executable software. No source-code rights are
+granted by this License, and no source code is required to be provided.
+
+3. Restrictions
+
+Except where a restriction is prohibited by applicable law, you may not:
+
+(a) modify, patch, hex-edit, alter, translate, adapt, or create derivative
+    versions of the executable;
+(b) reverse engineer, decompile, disassemble, or otherwise attempt to derive
+    source code, internal implementation, or non-public technical material from
+    the executable;
+(c) remove or alter copyright, authorship, license, attribution, or other
+    proprietary notices;
+(d) represent TPS-O or a redistributed copy as software authored by you or by
+    another party;
+(e) sell, sublicense, rent, lease, or charge a fee for TPS-O itself without
+    prior written permission from the copyright holder; or
+(f) use TPS-O in violation of applicable law or without required authorization.
+
+Redistribution is permitted only for exact, unmodified copies of the original
+TPS-O executable and must include this License.
+
+4. Authorized and Responsible Use
+
+You are solely responsible for ensuring that your use is lawful and authorized.
+Permitted examples include your own systems and keys, authorized recovery,
+research, education, test vectors, benchmarks, CTF/security challenges where
+such activity is allowed, and public cryptographic puzzles intentionally
+published to be solved under their stated rules.
+
+This License does not grant permission to access, recover, search for, or use
+private keys, wallets, accounts, systems, or data belonging to third parties
+without authorization.
+
+5. No Warranty
+
+TPS-O IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, PERFORMANCE, NON-INFRINGEMENT,
+AVAILABILITY, OR FITNESS FOR ANY PARTICULAR SEARCH, RECOVERY, PUZZLE, OR
+FINANCIAL RESULT.
+
+6. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER,
+DEVELOPER, CONTRIBUTORS, AND DISTRIBUTORS SHALL NOT BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR OTHER DAMAGES OR
+LOSSES ARISING FROM OR RELATED TO TPS-O OR ITS USE, MISUSE, INABILITY TO USE,
+SEARCH RESULTS, FAILURE TO FIND A RESULT, HARDWARE OR SOFTWARE FAILURE, DATA
+LOSS, LOSS OF FUNDS, LOSS OF PROFITS, POWER OR COMPUTING COSTS, INTERRUPTION OF
+SERVICE, OR LEGAL OR REGULATORY CONSEQUENCES, EVEN IF ADVISED OF THE POSSIBILITY
+OF SUCH DAMAGES.
+
+You use TPS-O entirely at your own risk and are responsible for validating all
+inputs, outputs, permissions, puzzle rules, system configuration, and results.
+
+7. Termination
+
+Your rights under this License terminate automatically if you violate its
+terms. Upon termination, you must stop distributing TPS-O and destroy any
+modified or unauthorized copies in your possession or control. Rights to use
+lawfully obtained unmodified copies may be restored only with written
+permission from the copyright holder.
+
+8. Mandatory Law
+
+Nothing in this License excludes rights that cannot lawfully be excluded or
+restricted under applicable law. Where a restriction is unenforceable, it shall
+be limited only to the minimum extent necessary, and the remaining terms shall
+continue in effect.
+
+9. No Trademark or Endorsement Rights
+
+This License does not grant rights to use the TPS-O name, project branding, or
+author identity in a way that suggests sponsorship, endorsement, or authorship
+of another product or modified work.
+
+10. Entire License
+
+This License states the permissions and restrictions granted for the public
+binary distribution of TPS-O. Any additional rights require prior written
+permission from the copyright holder.

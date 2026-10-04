@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/tps-o-cover.png" alt="TPS-O — Next-Generation Sequential Segment Search" width="100%">
+  <img src="docs/assets/tps-o-cover.webp" alt="TPS-O — Next-Generation Sequential Segment Search" width="100%">
 </p>
 
 <p align="center">
@@ -467,7 +467,7 @@ Remove-Item Env:TPS_GPU_BLOCKS_PER_SM -ErrorAction SilentlyContinue
 # Interface example
 
 <p align="center">
-  <img src="docs/assets/tps-o-terminal.png" alt="TPS-O terminal interface" width="100%">
+  <img src="docs/assets/tps-o-terminal.webp" alt="TPS-O terminal interface" width="100%">
 </p>
 
 Typical output shows:

@@ -548,5 +548,4 @@ In short:
 
 See [`LICENSE`](LICENSE) for the full terms.
 
-> [!NOTE]
-> MIT, Apache-2.0, BSD and GPL are **not** suitable for the stated distribution goal because they permit modification and/or source redistribution under their terms. A custom binary-only license is the better fit. For commercial distribution or maximum legal certainty across jurisdictions, have the final license reviewed by a qualified lawyer.
+reviewed by a qualified lawyer.
